@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:dirt"
+  },
+  "result": "adobemod:adobe_brick",
+  "experience": 0.5,
+  "cookingtime": 50
+}
